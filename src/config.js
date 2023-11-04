@@ -1,5 +1,4 @@
-const API_URL = 'http://localhost:3003';
-// const API_URL = "http://127.0.0.1:3001";
+const API_URL = "https://api.dev.stylemax.ca";
 export const END_POINTS = {
   searchProducts: '/product/search',
   products: '/product',
